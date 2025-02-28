@@ -1,0 +1,36 @@
+body {
+  background-color: antiquewhite;
+  padding: 100px;
+  padding-right: 300px;
+  padding-left: 300px;
+}
+h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+h2 {
+    font-size: 30px;
+    color: brown;
+    font-weight: bold;
+}
+h3 {
+    color: rgb(71, 21, 152);
+    font-weight: bold;
+}
+.flexbox {
+   height: 1200px;
+   width: 90%;
+   background-color: white;
+   margin: 0 auto;
+   padding: 30px;
+   display: block;
+   border-radius: 20px;
+}
+img {
+    height: 200px;
+    width: 575px;
+    border-radius: 20px;
+}
+.container {
+    word-spacing: 200px;
+}
